@@ -76,8 +76,8 @@ const Signup: NextPage = () => {
                   marginTop: "20px",
                 }}
               >
-                To join the conversation, simply sign up for an account. It's
-                quick and easy, and it's free!
+                To join the conversation, simply sign up for an account.
+                It&apos;s quick and easy, and it&apos;s free!
               </div>
             </div>
             <div
